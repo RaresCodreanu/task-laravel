@@ -18,6 +18,20 @@ Views:<br>
     -welcome<br>
     -dashboard<br>
     
+ Controllers:<br>
+    -/auth controllers<br>
+    -Admin<br>
+    -Appointments<br>
+    -Profile<br>
+    
+  Routes:<br>
+    -dashboard<br>
+    -auth<br>
+    -profile<br>
+    -calendar<br>
+    -calendar/action<br>
+    -delete<br>
+    
  Database: MySql <br>
  Laravel v9.50.2 (PHP v8.2.2)<br>
  jquery-3.6.3<br>
